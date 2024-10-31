@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MD5", "MD5\MD5.csproj", "{8854BEBA-809A-4363-8909-8575EF4C20B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MD5Tests", "MD5Tests\MD5Tests.csproj", "{116E3BDF-B354-4D66-A707-7B6F30136E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5ConsoleApp", "MD5ConsoleApp\MD5ConsoleApp.csproj", "{EFFA0B84-648A-44A3-8730-1BAAD662DA9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8854BEBA-809A-4363-8909-8575EF4C20B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8854BEBA-809A-4363-8909-8575EF4C20B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8854BEBA-809A-4363-8909-8575EF4C20B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8854BEBA-809A-4363-8909-8575EF4C20B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116E3BDF-B354-4D66-A707-7B6F30136E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116E3BDF-B354-4D66-A707-7B6F30136E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116E3BDF-B354-4D66-A707-7B6F30136E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116E3BDF-B354-4D66-A707-7B6F30136E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFFA0B84-648A-44A3-8730-1BAAD662DA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFA0B84-648A-44A3-8730-1BAAD662DA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFA0B84-648A-44A3-8730-1BAAD662DA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFA0B84-648A-44A3-8730-1BAAD662DA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36D3FDCA-E219-4894-8997-F3117055B213}
+	EndGlobalSection
+EndGlobal
