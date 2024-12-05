@@ -1,0 +1,9 @@
+class Reflector
+{
+    MethodInfo: Void PrintStructure(System.Type)
+    MethodInfo: Void DiffClasses(System.Type, System.Type)
+    MethodInfo: Void DiffClasses(System.IO.StreamWriter, System.Type, System.Type, Char)
+    MethodInfo: System.String GetToStringPresentation(System.Reflection.MemberInfo)
+    ConstructorInfo: Void .ctor(System.String)
+    FieldInfo: System.String workingDirectory
+}
