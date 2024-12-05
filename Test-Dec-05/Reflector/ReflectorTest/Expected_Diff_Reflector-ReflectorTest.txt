@@ -1,0 +1,14 @@
+Unique for: Reflector
++ MethodInfo: Void PrintStructure(System.Type)
++ MethodInfo: Void DiffClasses(System.Type, System.Type)
++ MethodInfo: Void DiffClasses(System.IO.StreamWriter, System.Type, System.Type, Char)
++ MethodInfo: System.String GetToStringPresentation(System.Reflection.MemberInfo)
++ ConstructorInfo: Void .ctor(System.String)
++ FieldInfo: System.String workingDirectory
+
+Unique for: ReflectorTest
+- MethodInfo: Void PrintStructureTest()
+- MethodInfo: Void DiffClassesTest()
+- ConstructorInfo: Void .ctor()
+- FieldInfo: Reflector.Reflector reflector
+- FieldInfo: System.String workingDirectory
